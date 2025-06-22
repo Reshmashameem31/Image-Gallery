@@ -8,4 +8,4 @@ This project is a simple and clean *image gallery* layout built using *HTML* and
 
 ## How to view
   . Live website  https://reshmashameem31.github.io/Image-Gallery/
-  . GitHub
+  . GitHub        https://github.com/Reshmashameem31/Image-Gallery
