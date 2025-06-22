@@ -7,5 +7,5 @@ This project is a simple and clean *image gallery* layout built using *HTML* and
 - CSS3 (Flexbox)
 
 ## How to view
-  . Live website 
+  . Live website  https://reshmashameem31.github.io/Image-Gallery/
   . GitHub
